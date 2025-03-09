@@ -13,6 +13,7 @@
 
 
 ### Paper Assigned to:
+```
 LeNet - Niteesh
 Alexnet - Mounika and Samriddhi
 Vgg :- Vaidehi hegde 
@@ -21,3 +22,4 @@ Densenet - Yash
 Googlenet-Anab Farooq and Akshay Patel
 Efficientnet :- Niteesh
 Mobilenet :- Niteesh
+```
