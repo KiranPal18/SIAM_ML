@@ -10,6 +10,9 @@ This is the Repo that contains all the class notes that have been delivered duri
  5. Image segmentation detailed discussion
 
 ### Papers to read 
+
+#### Image Classification:
+
     ● LeNet-5 
     ● AlexNet
     ● VGG
